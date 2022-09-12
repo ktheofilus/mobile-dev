@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toast">Toast</string>
+    <string name="countUp">Count up</string>
+    <string name="countDown">Create up</string>
+</resources>
